@@ -15,5 +15,7 @@ The Disaster Management System (DMS) is designed to mitigate the impact of calam
 - Fire sensors use infrared imaging detection.
 
 **Real-Time Alerts:** Automatic notifications to authorities and responders for rapid response.
+
 **Fire Detection:** Implemented using OpenCV for real-time monitoring.
+
 **Processor:** ESP8266 microcontroller.
